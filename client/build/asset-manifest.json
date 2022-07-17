@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a97a97f.chunk.css",
+    "main.js": "/static/js/main.cadee5d2.chunk.js",
+    "main.js.map": "/static/js/main.cadee5d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a029713.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a029713.js.map",
+    "static/js/2.4ce9f888.chunk.js": "/static/js/2.4ce9f888.chunk.js",
+    "static/js/2.4ce9f888.chunk.js.map": "/static/js/2.4ce9f888.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8a97a97f.chunk.css.map": "/static/css/main.8a97a97f.chunk.css.map",
+    "static/js/2.4ce9f888.chunk.js.LICENSE.txt": "/static/js/2.4ce9f888.chunk.js.LICENSE.txt",
+    "static/media/Arpita.bfad8dc7.jpg": "/static/media/Arpita.bfad8dc7.jpg",
+    "static/media/Instagram_BlackAndWhite.55309d71.png": "/static/media/Instagram_BlackAndWhite.55309d71.png",
+    "static/media/Linkedin_BlackAndWhite.e62a0932.png": "/static/media/Linkedin_BlackAndWhite.e62a0932.png",
+    "static/media/Navin.31c187fe.jpg": "/static/media/Navin.31c187fe.jpg",
+    "static/media/Rajat.03de64b3.jpg": "/static/media/Rajat.03de64b3.jpg",
+    "static/media/Saikiran.8fc3a29f.jpg": "/static/media/Saikiran.8fc3a29f.jpg",
+    "static/media/facebook.77d72cbd.png": "/static/media/facebook.77d72cbd.png",
+    "static/media/google.0590aaf0.png": "/static/media/google.0590aaf0.png",
+    "static/media/instagram_PNG10.263cdf8b.png": "/static/media/instagram_PNG10.263cdf8b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a029713.js",
+    "static/js/2.4ce9f888.chunk.js",
+    "static/css/main.8a97a97f.chunk.css",
+    "static/js/main.cadee5d2.chunk.js"
+  ]
+}

@@ -1,0 +1,122 @@
+.login {
+    height: calc(100vh-50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 60%;
+    height: 75%;
+    -webkit-box-shadow: 11px 11px 13px 3px rgba(222, 199, 222, 0.99);
+    -moz-box-shadow: 11px 11px 13px 3px rgba(222, 199, 222, 0.99);
+    box-shadow: 11px 11px 13px 3px rgba(222, 199, 222, 0.99);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding-top: 4%;
+}
+
+.left,
+.right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.center {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.or {
+    border: 2px solid lightgray;
+    border-radius: 50%;
+    padding: 10px;
+    color: gray;
+    background-color: white;
+    font-weight: bold;
+}
+
+.lin {
+    width: 0.5px;
+    height: 70%;
+    background-color: lightgray;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: -1;
+}
+
+.loginButton {
+    width: 150px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    /* color: white; */
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 6px 5px 11px 1px rgba(140, 140, 140, 1);
+    -moz-box-shadow: 6px 5px 11px 1px rgba(140, 140, 140, 1);
+    box-shadow: 6px 5px 11px 1px rgba(140, 140, 140, 1);
+}
+
+.google {
+    background-color: white;
+    color: black;
+}
+
+.facebook {
+    background-color: #3a5897;
+    color: white;
+}
+
+.github {
+    background-color: black;
+    color: white;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+input {
+    width: 200px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+
+}
+
+.submit {
+    width: 200px;
+    background-color: royalblue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+.loginTitle{
+    position: absolute;
+    top: 75px;
+    color: lightgray;
+
+}
+.cursor{
+    cursor: pointer;
+    margin: 0.5% 0%;
+}
+
+.colunm{
+    flex-direction: column;
+}
