@@ -1,7 +1,6 @@
 {
   "name": "real-abhyas-working",
   "version": "1.0.0",
-  "proxy" : "http://localhost:5000",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
